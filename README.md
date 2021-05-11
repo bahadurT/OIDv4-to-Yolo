@@ -1,7 +1,7 @@
 # OIDv4-to-Yolo
 # Project: OID v4 to Yolo
-# OIDv4 Coordinates
-# XMin,XMax,YMin,YMax
+OIDv4 Coordinates
+XMin,XMax,YMin,YMax
 # Person,0.210000,0.398750,0.317500,0.979167
 # x : (x_min + x_max)/2,
 # y : (y_min + y_max)/2,
